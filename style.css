@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.input-container {
+    margin-bottom: 20px;
+}
+
+input[type="date"] {
+    padding: 5px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#result {
+    font-size: 20px;
+    margin-top: 20px;
+}
